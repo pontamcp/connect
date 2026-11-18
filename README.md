@@ -42,6 +42,8 @@ Some apps keep their MCP servers in a JSON settings file. Add Ponta there as a r
 
 Your app must support sign-in for remote servers. It opens the Ponta page the first time it connects.
 
+For Cline, and for AI agents that add servers for you, see llms-install.md. It has the exact Cline entry.
+
 ## What your AI app gets
 
 One address gives your AI app every set of tools your PCs have. That can be files and commands, browser, mail, screen and My Chrome. Each tool's name starts with its set, such as `files_` or `mail_`.
